@@ -10,6 +10,7 @@ import android.widget.RadioGroup;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 import greendao.bewei.com.lexue.R;
+import greendao.bewei.com.lexue.activity.activity.BaseActivity;
 import greendao.bewei.com.lexue.activity.gfragment.Fragment01;
 import greendao.bewei.com.lexue.activity.gfragment.Fragment02;
 import greendao.bewei.com.lexue.activity.gfragment.Fragment03;
